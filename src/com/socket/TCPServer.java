@@ -10,7 +10,7 @@ import com.Response;
 
 import Server.DB.DAO.UserDAO;
 
-
+//µÚ¶þ°æ±¾
 
 public class TCPServer {
 	public ServerSocket serverSocket;
